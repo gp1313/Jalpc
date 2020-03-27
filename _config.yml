@@ -31,7 +31,7 @@ tagline:               >
   "Welcome to my page!"
 
 # A list of keywords for your blog
-keywords:              ["Computer Vision", "CNN", "Deep Learning", "AI", "Data Science", "Random Forest"]
+keywords:              []#["Computer Vision", "CNN", "Deep Learning", "AI", "Data Science", "Random Forest"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
