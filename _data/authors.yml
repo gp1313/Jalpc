@@ -9,7 +9,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-  I’m Gaurav. I’m a Data Scientist, with more than 5 years of work experience in the field of Computer Vision and Machine Learning
+    I’m Gaurav. I’m a Data Scientist, with more than 5 years of work experience in the field of Computer Vision and Machine Learning
 
   # This photo will be used in the about section.
   picture:
@@ -22,7 +22,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         @gauravp3005
+    twitter:         gauravp3005
     github:          gp1313
     # download:        <url>
     email:           gauravp3005@gmail.com
