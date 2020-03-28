@@ -10,14 +10,9 @@ noindex: true
 ---
 
 # Gaurav Pawar
-{:.lead}
 
 ### About Me
-{:.lead}
-
 > Data Scientist with 5 years of work experience. I solve real world business problems leveraging my strong Machine Learning, Statistics and Computer Vision skills.
-
----
 
 ## WORK EXPERIENCE
 
@@ -50,7 +45,6 @@ mark user’s attendance.
 
 - Prototype development for sales forecasting using historical transaction data
 
----
 
 ### ALLGO EMBEDDED | SOFTWARE ENGINEERING - MACHINE LEARNING
 
@@ -72,7 +66,6 @@ alignment module, camera calibration module.
 - Redesign core modules for improvement in performance in terms of memory
 and computation speed.
 
----
 
 ### FINEIT SOLUTIONS | SOFTWARE ENGINEERING - MACHINE VISION
 
@@ -108,9 +101,9 @@ StanfordStatisticalLearning
 ### PROGRAMMING
 
 In regular use :
-Python•C•C++•SQL
+Python • C • C++ • SQL
 Fimilar :
-R•Matlab
+R • Matlab
 
 ### TOOLS IN REGULAR USE
 
