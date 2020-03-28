@@ -50,7 +50,7 @@ menu:
   - title:             Computer Vision
     url:               /cv/
   - title:             Resume
-    url:               https://hydejack.com/docs/
+    url:               /resume/
   - title:             About
     url:               /about/
 
