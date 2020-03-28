@@ -1,3 +1,12 @@
+---
+layout: post
+title: Resume
+description: >
+  A page showing my resume
+image: /assets/img/blog/example-content-iii.jpg
+noindex: true
+---
+
 # Resume
 
 # Gaurav Pawar
