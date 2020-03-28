@@ -3,15 +3,17 @@ layout: post
 title: Resume
 description: >
   A page showing my resume
+
+hide_description: true
 image: /assets/img/blog/example-content-iii.jpg
 noindex: true
 ---
 
-# Resume
-
 # Gaurav Pawar
+{:.lead}
 
 ### About Me
+{:.lead}
 
 > Data Scientist with 5 years of work experience. I solve real world business problems leveraging my strong Machine Learning, Statistics and Computer Vision skills.
 
