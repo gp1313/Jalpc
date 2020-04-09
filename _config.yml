@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Computer_Vision
-    url:               /cv/
+    url:               /Computer_Vision/
   - title:             Resume
     url:               /Resume/
   - title:             About
