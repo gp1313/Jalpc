@@ -32,4 +32,10 @@ mark user’s attendance.
 
 ## Demand Forecasting
 
-- Prototype development for sales forecasting using historical transaction data
+- Responsible for design and development of sophisticated machine learning
+algorithms that involve learning from large amounts of business data, such as
+historical transactions, promotions, product’s category, outlet’s category and
+product’s attributes.
+- I have proven my ability to identify specific and actionable opportunities to
+solve business problems. My role was to translate these problem statements
+into analytical questions that can be answered using existing data.
