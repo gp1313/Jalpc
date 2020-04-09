@@ -6,7 +6,7 @@ description: >
 
 hide_description: true
 image: /assets/img/blog/example-content-iii.jpg
-noindex: true
+noindex: False
 ---
 
 ## Test
