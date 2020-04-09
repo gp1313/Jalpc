@@ -1,4 +1,4 @@
-# Machine_Learning_Notes
+# Machine Learning Notes
 
 # Introduction
 
