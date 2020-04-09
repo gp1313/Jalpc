@@ -47,7 +47,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Key_Ideas_in_Statistics
+  - title:             Computer_Vision
     url:               /cv/
   - title:             Resume
     url:               /Resume/
