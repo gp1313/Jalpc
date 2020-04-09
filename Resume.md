@@ -39,3 +39,31 @@ product’s attributes.
 - I have proven my ability to identify specific and actionable opportunities to
 solve business problems. My role was to translate these problem statements
 into analytical questions that can be answered using existing data.
+
+### ALLGO EMBEDDED | SOFTWARE ENGINEERING - MACHINE LEARNING
+
+Dec 2015 – Feb 2018 | Bangalore, IN
+
+## Deep learning based Driver Monitoring System
+
+- As part of ADAS team, I was responsible for prototype development.
+- Deep learning adoption : Replaced core modules such as face detection and
+facial landmark detection with deep learning based algorithms.
+- Before deep learning : Implemented research paper to develop initial
+prototype, I made use OpenCV and Dlib library for most of the development.
+
+## 360 Surround View for Parking Assistance System
+
+- Design and development of fish-eye camera correction module, photo-metric
+alignment module, camera calibration module.
+- Design and development of multi-view image stitching algorithm.
+- Redesign core modules for improvement in performance in terms of memory
+and computation speed.
+
+
+### FINEIT SOLUTIONS | SOFTWARE ENGINEERING - MACHINE VISION
+
+Mar 2015 – Sep 2015 | Pune, IN
+
+- Operational Anomaly Detection image processing.
+- Shape detection for audit process in manufacturing industry.
