@@ -67,3 +67,40 @@ Mar 2015 – Sep 2015 | Pune, IN
 
 - Operational Anomaly Detection image processing.
 - Shape detection for audit process in manufacturing industry.
+
+## ONLINE COURSES
+
+### COURSERA SPECIALIZATIONS
+
+Deep Learning Specialization
+
+Mathematics For Machine Learning
+
+TensorFlow in Practice
+
+Data Structures and Algorithms
+
+Learn SQL Basics for Data Science
+
+### OTHERS
+
+EDX Stat110x : Intro to Probability
+
+Stanford CS231n, FastAI
+
+Stanford Statistical Learning
+
+## SKILLS
+
+### PROGRAMMING
+
+In regular use :
+Python • C • C++ • SQL
+Familiar :
+R • Matlab
+
+### TOOLS IN REGULAR USE
+
+- PyTorch • TensorFlow • keras
+- OpenCV • Scikit-learn • Pandas
+- Flask • Git
