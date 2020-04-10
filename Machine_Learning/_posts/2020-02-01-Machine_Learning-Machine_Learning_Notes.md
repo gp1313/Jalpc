@@ -25,7 +25,7 @@ Definition of Machine Learning :
 
 Other interesting way of looking at machine learning program is by comparing it with a standard computer program, like the one we write to build a calculator.
 
-![Machine_Learning_Notes/FFCE81C4-D01C-4A3E-9065-D22F3287B030.jpeg](Machine_Learning_Notes/FFCE81C4-D01C-4A3E-9065-D22F3287B030.jpeg)
+![/Machine_Learning_Notes/FFCE81C4-D01C-4A3E-9065-D22F3287B030.jpeg](/Machine_Learning_Notes/FFCE81C4-D01C-4A3E-9065-D22F3287B030.jpeg)
 
 ## Prerequisite
 
@@ -39,7 +39,7 @@ Other interesting way of looking at machine learning program is by comparing it 
 
 ## What is Linear Regression?
 
-![Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg](Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg)
+![/Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg](/Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg)
 
 ### Andrew Ng Perspective
 
