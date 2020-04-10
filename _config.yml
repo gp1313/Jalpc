@@ -47,10 +47,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Computer_Vision
-    url:               /Computer_Vision/
-  - title:             Machine_Learning
-    url:               /Machine_Learning/
   - title:             Resume
     url:               /Resume/
   - title:             About
