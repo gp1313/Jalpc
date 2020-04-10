@@ -32,7 +32,7 @@ Other interesting way of looking at machine learning program is by comparing it 
 
 ## What is Linear Regression?
 
-![Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg](Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg)
+![Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg](./Machine_Learning_Notes/83762F48-1E87-4392-A723-F93061B5AC54.jpeg)
 
 ### Andrew Ng Perspective
 
